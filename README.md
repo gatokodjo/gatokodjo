@@ -1,6 +1,6 @@
 👋 Hi, I’m @gatokodjo
 
-👀 I’m passionate about Machine Learning, AI, IoT, and software development.
+👀 I’m passionate about Machine Learning, AI, IoT, Robotics. and software development.
 
 🌱 I’m currently pursuing a Master’s in Artificial Intelligence and deepening my expertise in supervised learning, deep neural networks, transfer learning, and predictive modeling.
 

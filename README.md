@@ -1,28 +1,46 @@
-👋 Hi, I’m @gatokodjo
+# Hi there, I’m Gato Kodjo 👋
 
-👀 I’m passionate about Machine Learning, AI, IoT, Robotics. and software development.
+I’m an AI and machine learning enthusiast with a strong interest in **predictive modeling, deep learning, climate intelligence, and intelligent systems**. I enjoy building data-driven solutions that combine research with real-world impact.
 
-🌱 I’m currently pursuing a Master’s in Artificial Intelligence and deepening my expertise in supervised learning, deep neural networks, transfer learning, and predictive modeling.
+## About me
 
-💻 I have worked on multiple projects, including:
+* 🎓 Currently pursuing a **Master’s in Artificial Intelligence**
+* 🤖 Interested in **Machine Learning, Deep Learning, IoT, Robotics, and Software Development**
+* 📊 Passionate about **predictive analytics, environmental intelligence, and AI-powered decision systems**
+* 🔬 Exploring **supervised learning, deep neural networks, transfer learning, explainable AI, and spatio-temporal modeling**
 
-Cyclone prediction (Bay of Bengal, India/West Bengal)
+## Projects
 
-General weather forecasting
+I’ve worked on a range of AI and data science projects, including:
 
-VTEC forecasting
+* **Cyclone prediction** (Bay of Bengal / West Bengal, India)
+* **Weather forecasting and environmental prediction**
+* **VTEC forecasting**
+* **Tuberculosis prediction**
+* **Climate downscaling for West Africa**
+* **Medical imaging and computer vision applications**
+* **Software and web development projects**
 
-Tuberculosis prediction
+## Tech stack
 
-Climate downscaling (West Africa)
+**Languages:** Python, JavaScript, Java, C, PHP
 
-Imaging methods and software development projects
+**ML & AI:** Scikit-learn, TensorFlow, Keras, Pandas, NumPy, Matplotlib
 
-💞️ I’m looking to collaborate on AI research, predictive modeling, IoT solutions, and data-driven software projects.
+**Tools & Technologies:** Git, PostgreSQL, WordPress, Astro, Tailwind CSS
 
-📫 How to reach me: kodjoewli@gmail.com
+## Let’s collaborate
 
-<!---
-gatokodjo/gatokodjo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m open to collaborating on:
+
+* AI and machine learning research
+* Predictive modeling and forecasting
+* Climate and environmental intelligence
+* IoT and intelligent automation
+* Data-driven software development
+
+## Connect with me
+
+* 📧 **Email:** [kodjoewli@gmail.com](mailto:kodjoewli@gmail.com)
+
+Thanks for visiting my profile! Feel free to explore my repositories and connect if you’d like to collaborate on meaningful AI projects.
